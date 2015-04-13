@@ -21,8 +21,5 @@ to create a new line add a \<br /\> at the end of the line.
 4- Moustapha Saad <br/>
 5- Mohamed Saad<br/>
 6- Ahmed Elmasarany <br/>
-<<<<<<< HEAD
-=======
 7- Alaa Ahmed <br/>
 8- Muhammed Ahmed Abdel-Nasser <br/>
->>>>>>> origin/master
