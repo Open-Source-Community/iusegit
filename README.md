@@ -1,6 +1,6 @@
 # iusegit
 
-this is a project that acts as an exercise to help OSCians learn git/github.<br/>
+this is a project that acts as an exercise to help OSCians and non-OSCians learn git/github.<br/>
 anybody can add his name to this project as an exercise to using git/github.<br/>
 
 ### steps to follow:
