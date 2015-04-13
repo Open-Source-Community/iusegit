@@ -1,7 +1,7 @@
 # iusegit
 
 to create a new line add a
-	<br />
+	\<br /\>
 at the end of the line.
 
 anybody can add his name to this project as an exercise to using git/github
