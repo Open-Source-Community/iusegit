@@ -12,7 +12,8 @@ anybody can add his name to this project as an exercise to using git/github.<br/
 
 ### tips:
 
-to create a new line add a \<br /\> at the end of the line.
+* Take this quick interactive tutorial: http://try.github.io/
+* To create a new line add a \<br /\> at the end of the line.
 
 #type your name here:
 1- Adham Zahran<br/>
@@ -24,4 +25,4 @@ to create a new line add a \<br /\> at the end of the line.
 7- Alaa Ahmed <br/>
 8- Muhammed Ahmed Abdel-Nasser <br/>
 9- Omar Ahmed<br/>
-10- Hedaya Samy</br>
+10- Hedaya Samy<br/>
