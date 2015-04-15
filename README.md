@@ -1,16 +1,16 @@
 # iusegit
 
-this is a project that acts as an exercise to help OSCians and non-OSCians learn git/github.<br/>
-anybody can add his name to this project as an exercise to using git/github.<br/> <br/>
+This is a project that acts as an exercise to help OSCians and non-OSCians learn git/github.<br/>
+Anybody can add his name to this project as an exercise to using git/github.<br/>
 
 Take this quick interactive tutorial: http://try.github.io/ <br/>
 
 ### steps to follow:
-* fork this repository.
-* clone it into your own laptop/PC.
-* modify the README.md file and add your name to it.
-* add, commit and push your changes to your github repository.
-* create a pull request.
+* Fork this repository.
+* Clone it into your own laptop/PC.
+* Modify the README.md file and add your name to it using your favorite text editor (notepad or gedit).
+* Add, commit and push your changes to your github repository.
+* Create a pull request.
 
 ### tips:
 
