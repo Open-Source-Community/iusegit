@@ -1,7 +1,9 @@
 # iusegit
 
 this is a project that acts as an exercise to help OSCians and non-OSCians learn git/github.<br/>
-anybody can add his name to this project as an exercise to using git/github.<br/>
+anybody can add his name to this project as an exercise to using git/github.<br/> <br/>
+
+Take this quick interactive tutorial: http://try.github.io/ <br/>
 
 ### steps to follow:
 * fork this repository.
@@ -12,7 +14,6 @@ anybody can add his name to this project as an exercise to using git/github.<br/
 
 ### tips:
 
-* Take this quick interactive tutorial: http://try.github.io/
 * To create a new line add a \<br /\> at the end of the line.
 
 #type your name here:
