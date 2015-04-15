@@ -1,7 +1,7 @@
 # iusegit
 
-This is a project that acts as an exercise to help OSCians and non-OSCians learn git/github.<br/>
-Anybody can add his name to this project as an exercise to using git/github.<br/>
+This is a challenge that acts as an exercise to help OSCians and non-OSCians learn git/github.<br/>
+The challenge is to add your name in the list below.
 
 Take this quick interactive tutorial: http://try.github.io/ <br/>
 
