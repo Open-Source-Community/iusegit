@@ -30,7 +30,7 @@ Take this quick interactive tutorial: http://try.github.io/ <br/>
 11- Kholoud Abdo<br/>
 12- Kholoud Rabie<br/>
 13- Salma Hammad<br/>
-14- KAbeer_El_Tazonyyen ^_^ #Islam <br/>
+14- KAbeer_El_Tazonyyen ^\_^ #Islam <br/>
 15- Mina Mouris <br/>
 16- Ahmed Farid Tyson <br/>
 17- Beshoy 2n0n <br/>
@@ -45,4 +45,4 @@ Take this quick interactive tutorial: http://try.github.io/ <br/>
 26- العدي بن صالح بن ابو الزيد <br/>
 27- Rana Hossam <br/>
 28- samar rokeba <br/>
-29- Dalia Emad (a5eran -_-)<br/>
+29- Dalia Emad (a5eran -\_-)<br/>
