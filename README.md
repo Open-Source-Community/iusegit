@@ -8,7 +8,7 @@ Take this quick interactive tutorial: http://try.github.io/ <br/>
 ### steps to follow:
 * Fork this repository.
 * Clone it into your own laptop/PC.
-* Modify the README.md file and add your name to it using your favorite text editor (notepad or gedit).
+* Add a new file that has your name.
 * Add, commit and push your changes to your github repository.
 * Create a pull request.
 
