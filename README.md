@@ -15,6 +15,7 @@ The challenge is to have your name added to the list below.
 * Learn git on [Codeacademy.](https://www.codecademy.com/learn/learn-git) <br/>
 
 #People who has completed the challenge:
+<ol>
 01- Adham Zahran<br/>
 02- Romario<br/>
 03- Baron Leonardo<br/>
@@ -56,3 +57,4 @@ The challenge is to have your name added to the list below.
 39- Omneya <br/>
 40- Yara Yasser <br/>
 41- Yasmin <br/>
+</ol>
