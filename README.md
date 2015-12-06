@@ -1,9 +1,7 @@
 ﻿# iusegit
 
 This is a challenge that acts as an exercise to help OSCians and non-OSCians learn git/github.<br/>
-The challenge is to add your name in the list below.
-
-Take this quick interactive tutorial: http://try.github.io/ <br/>
+The challenge is to have your name added to the list below.
 
 ### steps to follow:
 * Fork this repository.
@@ -12,11 +10,11 @@ Take this quick interactive tutorial: http://try.github.io/ <br/>
 * Add, commit and push your changes to your github repository.
 * Create a pull request.
 
-### tips:
+##Tips:
+* Take this quick [interactive tutorial] (http://try.github.io/) <br/>
+* Learn git on [Codeacademy.](https://www.codecademy.com/learn/learn-git) <br/>
 
-* To create a new line add a \<br /\> at the end of the line.
-
-#type your name here:
+#People who has completed the challenge:
 01- Adham Zahran<br/>
 02- Romario<br/>
 03- Baron Leonardo<br/>
