@@ -7,7 +7,7 @@ int main(int argc, char** argv[])
   // It is supposed to take commands on the form of
   // awesomecalculator add 3 5
   // and the output would be 8
-  // so argv[1] is the operation. ex. add, subtract, multiply, divide, power, root, log, factorial, sin, cos and tan.
+  // so argv[1] is the operation. ex. add, subtract, multiply, divide, absolute, negate, power, root, log, ln, factorial, sin, cos and tan.
   // argv[2] and argv[3] are the operands.
   // everyone can implement one operation function.
   // someone has to implement the main body.
