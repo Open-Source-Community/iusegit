@@ -2,7 +2,8 @@
 #include <sstream>
 #include <string>
 #include "operations.h"
-
+#include <math.h>
+#define PI 3.14159265
 using namespace std;
 
 float str_to_float(string str)
@@ -63,7 +64,8 @@ int main(int argc, char* argv[])
     }
     else if (operation == "cos")
     {
-      // cout << cos(num1) << endl;
+        cout << cos ( num1 * PI / 180.0 ) ;
+
     }
     else if (operation == "tan")
     {
