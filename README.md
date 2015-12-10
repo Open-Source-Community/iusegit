@@ -7,3 +7,8 @@ so `argv[1]` is the operation. ex. add, subtract, multiply, divide, absolute, ne
 everyone can implement one operation function.<br/>
 and someone will implement the main function body.<br/>
 if all functions were already implemented, come up with a new one and make it :D
+
+## People who have contributed to the project so far:
+<ol>
+<li>Eslam Romario</li>
+</ol>
