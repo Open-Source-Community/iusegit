@@ -48,13 +48,7 @@ int main(int argc, char* argv[])
     }
     else if (operation == "log")
     {
-            double num;
-            int base;
-            cin>>num>>base;
-            if(base==2)
-                log2(num);
-            else if(base==10)
-                log10(num);
+          cout << log(num1) << endl;
     }
     else if (operation == "ln")
     {
@@ -121,7 +115,7 @@ int main(int argc, char* argv[])
     }
     else if (operation == "log")
     {
-      // cout << log(num1, num2) << endl;
+       cout << log(num1, num2) << endl;
     }
     else
     {
