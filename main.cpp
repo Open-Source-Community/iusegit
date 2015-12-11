@@ -3,6 +3,7 @@
 #include <string>
 #include "operations.h"
 
+
 using namespace std;
 
 float str_to_float(string str)
