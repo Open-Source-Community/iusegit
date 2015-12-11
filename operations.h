@@ -16,6 +16,7 @@ float subtract(float num1, float num2)
 	return result;
 }
 
+
 float sine(float rate)
 {
     float result,r;
@@ -30,4 +31,13 @@ float sine(float rate)
         result = sin ((rate*PI)/180);
     }
     return result;
+}
+
+double _log(double x)
+{
+    return (log10(x));
+}
+
+double _log(double base, double x) {
+    return (double)(log(x) / log(base));
 }
