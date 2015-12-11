@@ -52,3 +52,6 @@ double powerfunction(double base, double power){
 
 
 }
+double _negate (double num){
+return num*(-1);
+}
