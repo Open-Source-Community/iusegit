@@ -33,6 +33,7 @@ float _sin(float rate)
     return result;
 }
 
+
 double _log(double x)
 {
     return (log10(x));
@@ -40,4 +41,14 @@ double _log(double x)
 
 double _log(double base, double x) {
     return (double)(log(x) / log(base));
+}
+
+double powerfunction(double base, double power){
+
+	double f = base;
+	for (int i = 1; i < power; i++)
+		f *= base;
+	return f;
+
+
 }
