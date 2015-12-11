@@ -4,6 +4,7 @@
 #include "operations.h"
 #include <math.h>
 #define PI 3.14159265
+
 using namespace std;
 
 float str_to_float(string str)
@@ -69,7 +70,7 @@ int main(int argc, char* argv[])
     }
     else if (operation == "tan")
     {
-      // cout << tan(num1) << endl;
+
     }
     else
     {
