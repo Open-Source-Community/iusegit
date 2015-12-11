@@ -15,7 +15,14 @@ float str_to_float(string str)
   else
     return NULL;
 }
-
+double log (double x)
+{
+    cout<<"log base 10 ="<<log10(x)<<endl;
+}
+double log2(double x )
+{
+    cout<<"log base "<<log2(x);
+}
 int main(int argc, char* argv[])
 {
   if (argc <= 2)
@@ -48,7 +55,13 @@ int main(int argc, char* argv[])
     }
     else if (operation == "log")
     {
-      // cout << log(num1) << endl;
+            double num;
+            int base;
+            cin>>num>>base;
+            if(base==2)
+                log2(num);
+            else if(base==10)
+                log10(num);
     }
     else if (operation == "ln")
     {
