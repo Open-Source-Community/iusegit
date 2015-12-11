@@ -3,7 +3,7 @@ using namespace std;
 
 #define PI 3.14159265
 
-float tan (float num1,float PI=3.14159265;)
+float _tan (float num1)
 {
 	float result =tan(num1*PI/180);
 
@@ -17,7 +17,7 @@ float subtract(float num1, float num2)
 }
 
 
-float sine(float rate)
+float _sin(float rate)
 {
     float result,r;
     r=rate/180;

@@ -62,7 +62,7 @@ int main(int argc, char* argv[])
     }
     else if (operation == "sin")
     {
-      cout << sine(num1) << endl;
+      cout << _sin(num1) << endl;
     }
     else if (operation == "cos")
     {
@@ -71,7 +71,7 @@ int main(int argc, char* argv[])
     }
     else if (operation == "tan")
     {
-
+	cout << _tan (num1);
     }
     else
     {
