@@ -17,6 +17,9 @@ float str_to_float(string str)
 
 int main(int argc, char* argv[])
 {
+    argc=3;
+    argv[1]="sin";
+    argv[2]="180";
   if (argc <= 2)
   {
     cerr << "too few arguments" << endl;
@@ -59,7 +62,7 @@ int main(int argc, char* argv[])
     }
     else if (operation == "sin")
     {
-      // cout << sin(num1) << endl;
+      cout << sine(num1) << endl;
     }
     else if (operation == "cos")
     {
