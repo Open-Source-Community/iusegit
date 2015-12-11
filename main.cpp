@@ -5,6 +5,7 @@
 #include <math.h>
 #define PI 3.14159265
 
+
 using namespace std;
 
 float str_to_float(string str)
@@ -61,7 +62,7 @@ int main(int argc, char* argv[])
     }
     else if (operation == "sin")
     {
-      // cout << sin(num1) << endl;
+      cout << sine(num1) << endl;
     }
     else if (operation == "cos")
     {
