@@ -96,7 +96,7 @@ int main(int argc, char* argv[])
     }
     else if (operation == "subtract")
     {
-      // cout << subtract(num1, num2) << endl;
+      cout << subtract(num1, num2) << endl;
     }
     else if (operation == "multiply")
     {
