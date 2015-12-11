@@ -1,7 +1,6 @@
 #include <math.h>
 using namespace std;
 
-
 #define PI 3.14159265
 
 float sine(float rate)
