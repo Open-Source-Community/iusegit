@@ -15,4 +15,5 @@ if all functions were already implemented, come up with a new one and make it :D
 <li>Omar Alsawaf</li>
 <li>Abdo Alaa</li>
 <li>Yasmin Ghazy</li>
+<li>Yara Yasser</li>
 </ol>
