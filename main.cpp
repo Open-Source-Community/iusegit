@@ -2,6 +2,7 @@
 #include <sstream>
 #include <string>
 #include "operations.h"
+#
 
 using namespace std;
 
@@ -67,7 +68,7 @@ int main(int argc, char* argv[])
     }
     else if (operation == "tan")
     {
-      // cout << tan(num1) << endl;
+
     }
     else
     {
