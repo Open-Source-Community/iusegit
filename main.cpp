@@ -17,9 +17,6 @@ float str_to_float(string str)
 
 int main(int argc, char* argv[])
 {
-    argc=3;
-    argv[1]="sin";
-    argv[2]="180";
   if (argc <= 2)
   {
     cerr << "too few arguments" << endl;
