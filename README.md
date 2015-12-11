@@ -11,4 +11,5 @@ if all functions were already implemented, come up with a new one and make it :D
 ## People who have contributed to the project so far:
 <ol>
 <li>Eslam Romario</li>
+<li>Mohamed Medhat</li>
 </ol>
