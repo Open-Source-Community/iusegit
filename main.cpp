@@ -54,7 +54,7 @@ int main(int argc, char* argv[])
     }
     else if (operation == "ln")
     {
-      // cout << ln(num1) << endl;
+      cout << ln(num1) << endl;
     }
     else if (operation == "factorial")
     {
