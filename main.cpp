@@ -109,7 +109,7 @@ int main(int argc, char* argv[])
     }
     else if (operation == "power")
     {
-      // cout << power(num1, num2) << endl;
+       cout << power(num1, num2) << endl;
     }
     else if (operation == "root")
     {
