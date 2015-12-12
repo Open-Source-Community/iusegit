@@ -35,7 +35,6 @@ float _sin(float rate)
 }
 
 
-<<<<<<< HEAD
 double _log(double x)
 {
     return (log10(x));
@@ -84,7 +83,7 @@ else cout<<"AN error";
 return 0;
 }
 
-double absluote (double num){
+double absolute (double num){
 if(num<0)return num*-1;
 else
     return num;

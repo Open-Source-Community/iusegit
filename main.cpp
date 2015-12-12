@@ -38,11 +38,11 @@ int main(int argc, char* argv[])
 
     if (operation == "absolute")
     {
-      // cout << absolute(num1) << endl;
+      cout << absolute(num1) << endl;
     }
     else if (operation == "negate")
     {
-      // cout << negate(num1) << endl;
+      cout << negate(num1) << endl;
     }
     else if (operation == "root")
     {
