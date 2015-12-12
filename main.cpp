@@ -58,7 +58,7 @@ int main(int argc, char* argv[])
     }
     else if (operation == "factorial")
     {
-      // cout << factorial(num1) << endl;
+      cout << factorial(num1) << endl;
     }
     else if (operation == "sin")
     {

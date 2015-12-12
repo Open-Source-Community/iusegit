@@ -31,3 +31,16 @@ float sine(float rate)
     }
     return result;
 }
+
+
+float factorial(float n)
+{
+
+    float result=1;
+
+
+     for (float i =1;i<=n;i++){
+         result*=i;}
+
+    return result;
+}
