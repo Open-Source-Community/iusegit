@@ -34,6 +34,7 @@ float _sin(float rate)
 }
 
 
+<<<<<<< HEAD
 double _log(double x)
 {
     return (log10(x));
@@ -49,6 +50,17 @@ double powerfunction(double base, double power){
 	for (int i = 1; i < power; i++)
 		f *= base;
 	return f;
+}
 
 
+float factorial(float n)
+{
+
+    float result=1;
+
+
+     for (float i =1;i<=n;i++){
+         result*=i;}
+
+    return result;
 }
