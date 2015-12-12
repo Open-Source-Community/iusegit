@@ -33,8 +33,6 @@ float sine(float rate)
 }
 double powerfunction(double base, double power){
 
-	cout << "Please enter the number with its power : ";
-	cin >> base >> power;
 	double f = base;
 	for (int i = 1; i < power; i++)
 		f *= base;
