@@ -85,9 +85,7 @@ double divide(double n1 , n2){
 }
 
 double absolute (double num){
-if(num<0)return num*-1;
-else
-    return num;
+    return (num<0?-1*num:num);
 }
 
 unsigned long long factorial(double num){
