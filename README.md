@@ -19,4 +19,5 @@ if all functions were already implemented, come up with a new one and make it :D
 <li>Saieed Osama</li>
 <li>Omneya Yahya</li>
 <li>Sara Rabie</li>
+<li>Omar M. Ali</li>
 </ol>
