@@ -120,3 +120,7 @@ long double ln(long double x)
 
    return totalValue;
 }
+float divide (float num1, float num2)
+{
+return (num1/num2);
+}
