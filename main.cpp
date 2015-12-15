@@ -105,7 +105,10 @@ int main(int argc, char* argv[])
     }
     else if (operation == "divide")
     {
-      // cout << divide(num1, num2) << endl;
+        if(num2 == 0)
+cout<<"Invalid! num2 must be > 0"<<endl;
+else
+     cout << divide(num1, num2) << endl;
     }
     else if (operation == "power")
     {
@@ -133,3 +136,4 @@ int main(int argc, char* argv[])
 
   return 0;
 }
+
