@@ -7,7 +7,7 @@ It's a pretty darn simple command line calculator.
 * [ ] Rana: Create an add(num1, num2) function.
 * [ ] Dina: Create a subtract(num1, num2) function.
 * [ ] Merna: Create a multiply(num1, num2) function.
-* [ ] oday: Create a divide(num1, num2) function.
+* [ ] Oday: Create a divide(num1, num2) function.
 * [ ] Islam: Create an absolute(num) function.
 * [ ] Alaa: Create negate(num) function.
-* [ ] Adam: Create the base code of the program.
+* [x] Adam: Create the base code of the program.
