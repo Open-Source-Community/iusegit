@@ -4,7 +4,7 @@ This is a project for the CCC to practice git/github. <br/>
 It's a pretty darn simple command line calculator.
 
 ## Tasks:
-* [ ] Rana: Create an add(num1, num2) function.
+* [x] Rana: Create an add(num1, num2) function.
 * [ ] Dina: Create a subtract(num1, num2) function.
 * [ ] Merna: Create a multiply(num1, num2) function.
 * [ ] Oday: Create a divide(num1, num2) function.
