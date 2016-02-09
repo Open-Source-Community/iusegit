@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# iusegit
 
 This is a challenge that acts as an exercise to help OSCians and non-OSCians learn git/github.<br/>
@@ -63,3 +64,18 @@ The challenge is to have your name added to the list below.
 <li>Rana Hossam tany</li>
 <li>Ibrahim A'mer</li>
 </ol>
+=======
+# trainingproject2
+
+This is a project for the CCC to practice git/github. <br/>
+It's a pretty darn simple command line calculator.
+
+## Tasks:
+* [x] Rana: Create an add(num1, num2) function.
+* [ ] Dina: Create a subtract(num1, num2) function.
+* [ ] Merna: Create a multiply(num1, num2) function.
+* [ ] Oday: Create a divide(num1, num2) function.
+* [ ] Islam: Create an absolute(num) function.
+* [ ] Alaa: Create negate(num) function.
+* [x] Adam: Create the base code of the program.
+>>>>>>> 75dde1d74950d9ef1247ee22bc36cdf26bf9a341
