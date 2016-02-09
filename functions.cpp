@@ -5,7 +5,14 @@ float add(float num1, float num2)
     return sum;
 }
 
-float subtract(float num1, float num2);
+float subtract(float num1, float num2)
+{
+	float sub;
+	sub = num1 - num2;
+	return sub;
+
+
+}
 
 float multiply(float num1, float num2)
 {
