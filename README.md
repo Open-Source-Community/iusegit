@@ -1,7 +1,9 @@
 ﻿# iusegit
 
 This is a challenge that acts as an exercise to help OSCians and non-OSCians learn git/github.<br/>
-The challenge is to have your name added to the list below.
+The challenge is to have your name added to the list below.<br/>
+
+[Watch this to know what git is.](https://www.youtube.com/watch?v=HEmfKX3prdA)
 
 ### steps to follow:
 * Fork this repository.
