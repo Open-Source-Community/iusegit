@@ -6,7 +6,7 @@ The challenge is to have your name added to the list below.
 ### steps to follow:
 * Fork this repository.
 * Clone it into your own laptop/PC.
-* Add a new file that has your name.
+* Add your name to the list below by editing the README.md file.
 * Add, commit and push your changes to your github repository.
 * Create a pull request.
 
