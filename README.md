@@ -5,16 +5,18 @@ The challenge is to have your name added to the list below.<br/>
 
 [Watch this video to know what git is.](https://www.youtube.com/watch?v=HEmfKX3prdA)
 
+## You don't know git and you wanna learn it?
+* [Let bucky teach you how to use git :D](https://www.youtube.com/watch?v=cEGIFZDyszA&index=1&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
+* Take this quick [interactive tutorial] (http://try.github.io/) <br/>
+* Learn git on [Codeacademy.](https://www.codecademy.com/learn/learn-git) <br/>
+
 ### steps to follow:
+Okay so now that you know how to use git.
 * Fork this repository.
 * Clone it into your own laptop/PC.
 * Add your name to the list below by editing the README.md file.
 * Add, commit and push your changes to your github repository.
 * Create a pull request.
-
-##Tips:
-* Take this quick [interactive tutorial] (http://try.github.io/) <br/>
-* Learn git on [Codeacademy.](https://www.codecademy.com/learn/learn-git) <br/>
 
 #People who has completed the challenge:
 <ol>
