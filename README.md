@@ -71,5 +71,4 @@ Okay so now that you know how to use git.
 <li>Ahmed Zakaria</li>
 <li>AbdelRahman Mostafa</li>
 <li>Maha Amin</li>
-<li>Adham Zahran</li>
 </ol>
