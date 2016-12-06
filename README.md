@@ -75,4 +75,5 @@ Okay so now that you know how to use git.
 <li>Sara Magdy</li>
 <li>Mohab Abd El-dayem (cooper =D )</li>
 <li>Dina E. Mohamed</li>
+<li>Ahmed Tarek</li>
 </ol>
