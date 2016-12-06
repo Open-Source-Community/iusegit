@@ -73,4 +73,5 @@ Okay so now that you know how to use git.
 <li>AbdelRahman Mostafa</li>
 <li>Maha Amin</li>
 <li>Sara Magdy</li>
+<li>Dina E. Mohamed</li>
 </ol>
