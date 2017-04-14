@@ -18,7 +18,7 @@ Okay so now that you know how to use git.
 * Add, commit and push your changes to your github repository.
 * Create a pull request.
 
-# People who has completed the challenge:
+# People who have completed the challenge:
 <ol>
 <li>Adham Zahran</li>
 <li>Romario</li>
