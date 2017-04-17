@@ -1,4 +1,4 @@
-# iusegit
+﻿# iusegit
 
 This is a challenge that acts as an exercise to help OSCians and non-OSCians learn git/github.<br/>
 The challenge is to have your name added to the list below.<br/>
@@ -10,6 +10,9 @@ The challenge is to have your name added to the list below.<br/>
 * Take this quick [interactive tutorial] (http://try.github.io/) <br/>
 * Learn git on [Codeacademy.](https://www.codecademy.com/learn/learn-git) <br/>
 
+### If you already know git and need a refresher/cheatsheet
+Take a look at [this cheatsheet](Cheatsheet.md)
+
 ### steps to follow:
 Okay so now that you know how to use git.
 * Fork this repository.
@@ -18,7 +21,7 @@ Okay so now that you know how to use git.
 * Add, commit and push your changes to your github repository.
 * Create a pull request.
 
-#People who has completed the challenge:
+# People who have completed the challenge:
 <ol>
 <li>Adham Zahran</li>
 <li>Romario</li>
@@ -80,5 +83,9 @@ Okay so now that you know how to use git.
 <li>mega may</li>
 <li>Muhamed Lotfeee</li>
 <li>hossam ayman</li>
+<li>AbdlrHmn Ali</li>
+<li>Ibrahim Hasan xD Barhoma xD</li>
+<li>Ahmed Reda Mohamed</li>
+<li>Mohamed Essam</li>
 <li>Amin khalaf</li>
 </ol>
