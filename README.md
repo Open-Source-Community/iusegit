@@ -10,8 +10,8 @@ The challenge is to have your name added to the list below.<br/>
 * Take this quick [interactive tutorial] (http://try.github.io/) <br/>
 * Learn git on [Codeacademy.](https://www.codecademy.com/learn/learn-git) <br/>
 
-## If you already know git and need a refresher/cheatsheet
-Take a look at this [Cheatsheet.md](Cheatsheet.md)
+### If you already know git and need a refresher/cheatsheet
+Take a look at [this cheatsheet](Cheatsheet.md)
 
 ### steps to follow:
 Okay so now that you know how to use git.
