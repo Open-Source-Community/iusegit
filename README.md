@@ -1,4 +1,4 @@
-﻿# iusegit
+# iusegit
 
 This is a challenge that acts as an exercise to help OSCians and non-OSCians learn git/github.<br/>
 The challenge is to have your name added to the list below.<br/>
@@ -89,4 +89,5 @@ Okay so now that you know how to use git.
 <li>Mohamed Essam</li>
 <li>Amin khalaf</li>
 <li>Yazan Rihani</li>
+<li>Mostafa Mohamed</li>
 </ol>
