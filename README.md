@@ -105,4 +105,5 @@ Okay so now that you know how to use git.
 <li>Nicholas Bailey</li>
 <li>Jessica Alabsa</li>
 <li>Colen</li>
+  <li>Joseph Banks</li>
 </ol>
