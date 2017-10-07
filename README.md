@@ -102,5 +102,6 @@ Okay so now that you know how to use git.
 <li>Robin - RLEXBuilding</li>
 <li>Ashley Anderson</li>
 <li>Miguel Cosme</li>
+<li>Nicholas Bailey</li>
 <li>Jessica Alabsa</li>
 </ol>
