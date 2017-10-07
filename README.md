@@ -98,4 +98,5 @@ Okay so now that you know how to use git.
 <li>Kamal Moussa</li>
 <li>Mohamed Adel</li>
 <li>Dilum De Silva</li>
+<li>Luca Feger</li>
 </ol>
