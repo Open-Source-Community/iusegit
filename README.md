@@ -107,4 +107,5 @@ Okay so now that you know how to use git.
 <li>Colen</li>
 <li>Joseph Banks</li>
 <li>Mameaw14</li>
+<li>Geoffrey Wong</li>
 </ol>
