@@ -113,4 +113,5 @@ Okay so now that you know how to use git.
 <li>Vimukthi</li>
 <li>Brandon Lum</li>
 <li>Raneesh Gomez</li>
+<li>Suleka Helmini</li>
 </ol>
