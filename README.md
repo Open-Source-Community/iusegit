@@ -112,5 +112,7 @@ Okay so now that you know how to use git.
 <li>Rajith konara</li>
 <li>Vimukthi</li>
 <li>Brandon Lum</li>
+<li>Raneesh Gomez</li>
+<li>Suleka Helmini</li>
 <li>Prasadee Jayasuriya</li>
 </ol>
