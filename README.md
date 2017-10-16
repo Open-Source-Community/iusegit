@@ -3,13 +3,9 @@
 This is a challenge that acts as an exercise to help OSCians and non-OSCians learn git/github.<br/>
 The challenge is to have your name added to the list below.<br/>
 
-[Watch this video to know what git is.](https://www.youtube.com/watch?v=HEmfKX3prdA)
-
 ## You don't know git and you wanna learn it?
-Here's what you can do. You can:
-* [Let bucky teach you how to use git :D](https://www.youtube.com/watch?v=cEGIFZDyszA&index=1&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
-* Take this quick [interactive tutorial] (http://try.github.io/) <br/>
-* Learn git on [Codeacademy.](https://www.codecademy.com/learn/learn-git) <br/>
+Here's what you can do. You can refer 
+> [LearnSources](https://github.com/piumalkulasekara/iusegit/blob/master/LearningResources.md) to learn all Git commands.
 
 ### If you already know git and need a refresher/cheatsheet
 Take a look at [this cheatsheet](Cheatsheet.md)
