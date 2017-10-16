@@ -10,8 +10,8 @@ Here's what you can do. You can:
 * [Let bucky teach you how to use git :D](https://www.youtube.com/watch?v=cEGIFZDyszA&index=1&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
 * Take this quick [interactive tutorial] (http://try.github.io/) <br/>
 * Learn git on [Codeacademy.](https://www.codecademy.com/learn/learn-git) <br/>
-* Learn Step by Step with Udemy(https://www.udemy.com/git-complete)
-* Indepth view (https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+* Learn Step by Step with [Udemy](https://www.udemy.com/git-complete)
+* Indepth view [YouTube](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 ### If you already know git and need a refresher/cheatsheet
 Take a look at [this cheatsheet](Cheatsheet.md)
