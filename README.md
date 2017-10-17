@@ -1,16 +1,15 @@
-﻿# iusegit
+# iusegit
 
-This is a challenge that acts as an exercise to help OSCians and non-OSCians learn git/github.<br/>
+This is a challenge that acts as an exercise to help OSCians and non-OSCians learn Git/Github.<br/>
 The challenge is to have your name added to the list below.<br/>
 
 ## You don't know git and you wanna learn it?
-Here's what you can do. You can refer 
-> [LearnSources](https://github.com/piumalkulasekara/iusegit/blob/master/LearningResources.md) to learn all Git commands.
+Take a look at this list of [Git Learning Material](LearningResources.md).
 
 ### If you already know git and need a refresher/cheatsheet
 Take a look at [this cheatsheet](Cheatsheet.md)
 
-### steps to follow:
+### To complete the challenge do the following:
 Okay so now that you know how to use git.
 * Fork this repository.
 * Clone it into your own laptop/PC.
