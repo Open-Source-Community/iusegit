@@ -106,5 +106,11 @@ Okay so now that you know how to use git.
 <li>Pircher Simon</li>
 <li>Rajith konara</li>
 <li>Vimukthi</li>
+<li>Brandon Lum</li>
+<li>Raneesh Gomez</li>
+<li>Suleka Helmini</li>
+<li>Prasadee Jayasuriya</li>
+<li>Bhagya Sanjeewa</li>
+<li>Piumal Kulasekara</li>
 <li>Mona Molham</li>
 </ol>
