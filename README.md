@@ -111,5 +111,5 @@ Okay so now that you know how to use git.
 <li>Pircher Simon</li>
 <li>Rajith konara</li>
 <li>Vimukthi</li>
-</ol>
 <li>Mona Molham</li>
+</ol>
