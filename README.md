@@ -1,7 +1,7 @@
-# iusegit
+﻿# iusegit
 
 This is a challenge that acts as an exercise to help OSCians and non-OSCians learn Git/Github.<br/>
-The challenge is to have your name added to the list below.<br/>
+The challenge is to have your name added to the glorious list below.<br/>
 
 ## You don't know git and you wanna learn it?
 Take a look at this list of [Git Learning Material](LearningResources.md).
