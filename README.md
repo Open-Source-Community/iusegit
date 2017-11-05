@@ -116,4 +116,5 @@ Okay so now that you know how to use git.
 <li>Jamiekwi</li>
 <li>Sekab</li>
 <li>Ahmed Elmayyah</li>
+<li>Kuku</li>
 </ol>
