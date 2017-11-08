@@ -25,7 +25,7 @@ These are 85% of the commands you'll use
 * `git checkout -b <branch name>` creates a new branch and moves to it (it's a shortcut for the previous two commands)
 * `git merge <branch name>` merges <branch name> with current branch
 * `git branch -d <branch name>` deletes branch if already merged to master
-* `git branch -D <branch name>` deltes branch by force even if not merged to master
+* `git branch -D <branch name>` deletes branch by force even if not merged to master
 
 ## Remotes
 Your local repo can be connected to multiple remote repositories at once. Example: github, bitbucket and the local staging server in company. If you're connected to more than one remote this will probably help you.
