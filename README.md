@@ -118,4 +118,5 @@ Okay so now that you know how to use git.
 <li>Sekab</li>
 <li>Ahmed Elmayyah</li>
 <li>Kuku</li>
+<li>Ismail Samir</li>
 </ol>
