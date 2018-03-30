@@ -123,6 +123,7 @@ Okay so now that you know how to use git.
 <li>Esraa Afifi</li>
 <li>Menna Mohie El-deen</li>
 <li>Kamal Saad</li>
+<li>Mohammad Amr</li>
 <li>Mai Algendy</li>
 <li>Musta Mohamed</li>
 </ol>
