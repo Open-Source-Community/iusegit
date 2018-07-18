@@ -102,7 +102,7 @@ Okay so now that you know how to use git.
 <li>Colen</li>
 <li>Joseph Banks</li>
 <li>Mameaw14</li>
-<li>Te7aaaaa xD-3amr Qasem</li>
+<li>Te7aaaaa xD - 3amr Qasem</li>
 <li>Geoffrey Wong</li>
 <li>Pircher Simon</li>
 <li>Rajith konara</li>
