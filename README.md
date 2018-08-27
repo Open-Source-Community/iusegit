@@ -129,4 +129,7 @@ Okay so now that you know how to use git.
 <li>Taghreed Reda</li>
 <li>Timeth Subasinghe</li>
 <li>abdelrhman akram </li>
+<li>Nathalie</li>
+<li>NerminDaif</li>
+<li>Youstina</li>
 </ol>
