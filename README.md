@@ -135,4 +135,5 @@ Okay so now that you know how to use git.
 <li>Evan Walters</li>
 <li>Sandeep SG</li>
 <li>Aleksandar Sangy</li>
+<li>Haidar Rifki</li>
 </ol>
