@@ -133,5 +133,6 @@ Okay so now that you know how to use git.
 <li>NerminDaif</li>
 <li>Youstina</li>
 <li>Evan Walters</li>
-<li>Sandeep SG<li>
+<li>Sandeep SG</li>
+<li>Aleksandar Sangy</li>
 </ol>
