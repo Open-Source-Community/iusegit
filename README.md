@@ -138,5 +138,6 @@ Okay so now that you know how to use git.
   <li>Haidar Rifki</li>
   <li>Darwin</li>
   <li>Teerapong Tienkul</li>
-  <li>Thirumalai devi Ramya</li>  
+  <li>Thirumalai devi Ramya</li> 
+  <li>Mareeswari Lakshmi</li>
 </ol>
