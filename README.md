@@ -143,4 +143,5 @@ Okay so now that you know how to use git.
   <li>Vatsal Trivedi</li>
   <li>Qasem</li>
   <li>Mahmoud ElHussieni</li>
+  <li>Mahmoud Mohamed Anwar</li>
 </ol>
