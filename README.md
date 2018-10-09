@@ -145,4 +145,5 @@ Okay so now that you know how to use git.
   <li>Mahmoud ElHussieni</li>
   <li>Mahmoud Mohamed Anwar</li>
   <li>Hossam Eissa</li>
+  <li>Kamal Aly Kamal</li>
 </ol>
