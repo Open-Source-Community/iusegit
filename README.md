@@ -148,5 +148,6 @@ Okay so now that you know how to use git.
   <li>Kamal Aly Kamal</li>
   <li>Mohamed Ahmed Ahmed Kamal</li>
   <li>Derry Handoyo</li>
+  <li>Pit Lazarus</li>
   
 </ol>
