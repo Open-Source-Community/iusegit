@@ -151,4 +151,5 @@ Okay so now that you know how to use git.
   <li>Yusef Mustafa</li>
   <li>Pit Lazarus</li>  
   <li>Carlos Daniel</li>
+  <li>Jeronimo C</li>
 </ol>
