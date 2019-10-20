@@ -39,6 +39,7 @@ Okay so now that you know how to use git.
   <li>Dina Essam</li>
   <li>Dev Mostafa</li>
   <li>ZiZi mohamed</li>
+  <li>Vanshika</li>
   <li>EstebanZapata</li>
   <li>Ahmad Ikramy</li>
   <li>Bassel Safwat</li>
