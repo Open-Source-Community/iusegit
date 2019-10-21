@@ -157,4 +157,5 @@ Okay so now that you know how to use git.
   <li>Reham Raafat</li>
   <li>Dezi Byte</li>
   <li>Atta</li>
+  <li>fobriste</li>
 </ol>
