@@ -160,5 +160,6 @@ Okay so now that you know how to use git.
   <li>Atta</li>
   <li>fobriste</li>
   <li>Ahmed Ragab Abdul Ghani</li>
+  <li>Ali Maher Al sayed</li>
   <li>Ahmed Yasser</li>
 </ol>
