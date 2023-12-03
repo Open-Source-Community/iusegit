@@ -161,4 +161,9 @@ Okay so now that you know how to use git.
   <li>fobriste</li>
   <li>Ahmed Ragab Abdul Ghani</li>
   <li>Wael Tarek Mohamed Abas</li>
+  <li>Ali Maher Al sayed</li>
+  <li>Ahmed Yasser</li>
+  <li>Mina Saadallah</li>
+  <li>Mostafa Aboelnour</li>
+  <li>Yasser</li>
 </ol>
