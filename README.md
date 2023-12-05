@@ -6,10 +6,10 @@ The challenge is to have your name added to the list below.<br/>
 ## You don't know git and you wanna learn it?
 Take a look at this list of [Git Learning Material](LearningResources.md).
 
-### If you already know git and need a refresher/cheatsheet
+### If you already know git and need a refresher/cheatsheet:
 Take a look at [this cheatsheet](Cheatsheet.md)
 
-### To complete the challenge do the following:
+### - To complete the challenge do the following:
 Okay so now that you know how to use git.
 * Fork this repository.
 * Clone it into your own laptop/PC.
@@ -165,4 +165,8 @@ Okay so now that you know how to use git.
   <li>Mina Saadallah</li>
   <li>Mostafa Aboelnour</li>
   <li>Yasser</li>
-</ol>
+  <li>AbdElrahman Khatab xD</li>
+</ol> 
+<br><hr><br>
+
+![OSC logo](https://avatars.githubusercontent.com/u/8175673?s=200&v=4)
