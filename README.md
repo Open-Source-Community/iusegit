@@ -175,6 +175,7 @@ Okay so now that you know how to use git.
   <li>Amira Nasser Sayed</li>
   <li>Hager Ali</li>
   <li>Fatma Elkassaby </li>
+  <li>Mahmoud Magdy</li>
 </ol> 
 <br><hr><br>
 
