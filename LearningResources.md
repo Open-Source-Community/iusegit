@@ -15,5 +15,5 @@ This file contains learning materials shared by contributors
 
 
 ## Online Courses to follow:
-* Learn Git on [Codecademy](https://www.codecademy.com/learn/learn-git)
+* Learn Git on [Codecademy](https://www.codecademy.com/learn/learn-git) .
 * Learn Git on [Udemy](https://www.udemy.com/git-complete)
