@@ -173,6 +173,7 @@ Okay so now that you know how to use git.
   <li>Khaled Sayed</li>  
   <li>Yusif Ali</li>  
   <li>Amira Nasser Sayed</li>
+  <li>Hager Ali</li>
 </ol> 
 <br><hr><br>
 
