@@ -170,6 +170,7 @@ Okay so now that you know how to use git.
   <li>d☆lia</li>
   <li>Azad Mohammed</li>
   <li>Hana</li>
+  <li>Khaled Sayed</li>
 </ol> 
 <br><hr><br>
 
