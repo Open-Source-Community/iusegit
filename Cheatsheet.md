@@ -1,6 +1,8 @@
 # Cheatsheet for everyday life with git
 This sheet assumes you have basic knowledge of git. It merely serves as a refresher. 
 
+## All Git commands in one file: [HERE](https://doabledanny.gumroad.com/l/git-commands-cheat-sheet-pdf)
+
 ## Clone or initialize a new git repo
 * `git clone <url>` clones an existing repo from given url.
 * `git init` creates a new repo in the current directory
